@@ -12,15 +12,15 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-WeChat:            "xueyubaobao"
-QQ:           "493158088"
+WeChat:            xueyubaobao
+QQ:           493158088
 instagram:          default
-github:             default
+github:             xueyubaobao
 
 # personal
-location:           Los Angeles, CA
+location:           Beijing, China
 phone:              199-1997-0398
-email:              493158088@qq.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+email:              sxq973@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
